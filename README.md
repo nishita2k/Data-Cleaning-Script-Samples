@@ -7,7 +7,7 @@ This script performs data cleaning and preprocessing on the Gapminder dataset. T
 
 * Files Included in the ZIP Folder
 
-1. cleaning script_nishita.R: R script for cleaning the dataset.
+1. uci-cleaning script sample_nish.R: R script for cleaning the dataset.
 2. cleaned_gapminder.csv: Output file containing the cleaned dataset.
 3. gapminder data cleaning script_nish.Rproj: accessible R project to load script and dataset
 
@@ -66,7 +66,7 @@ Realinho, V., Vieira Martins, M., Machado, J., & Baptista, L. (2021). Predict St
 
 * Files included in the ZIP Folder:
 1. predict+students+dropout+and+academic+success.csv: Input (raw dataset)
-2. cleaning script sample_nish.R: R script for cleaning the dataset
+2. gapminder-cleaning script_nishita.R: R script for cleaning the dataset
 3. cleaned_student_data.csv: Output file containing the cleaned dataset
 
 * Dependencies
