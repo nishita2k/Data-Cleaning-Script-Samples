@@ -56,7 +56,7 @@ The final cleaned dataset is saved as cleaned_gapminder.csv.
 
 
 
-__SECTION #2: Data Cleaning Script for Student Dropout & Success Dataset__
+__SECTION 2: Data Cleaning Script for Student Dropout & Success Dataset__
 
 * Overview: 
 This script is designed to clean and preprocess the "Predict Student Dropout and Academic Success" dataset. It ensures that the data is formatted correctly, free from inconsistencies, and ready for analysis.
